@@ -6,7 +6,7 @@ A modern clone of Google's Gemini AI interface built using **React.js** and **Vi
 
 CHECK IT OUT : https://gemini-clone-react-rust.vercel.app/
 
-https://github.com/subhamDecoder/GeminiClone-React/issues/1
+![Image](https://github.com/user-attachments/assets/a087d4d4-13d0-435c-9acc-4ba33be9f2f0)
 
 ## 🚀 Features
 
